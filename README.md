@@ -69,17 +69,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Demo
-👉 (Add screenshots or video here later)
-
----
-
-## 💡 Future Improvements
-- Deploy as web app (Streamlit)
-- Improve model with larger dataset
-- Add mask type classification
-
----
 
 ## 👩‍💻 Author
 **Gaurvi Dohare**
